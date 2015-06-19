@@ -1,4 +1,5 @@
 # eeh-metis-menu
+
 An AngularJS [metisMenu](https://github.com/onokumus/metisMenu) module.
 
 This module works great with the [eeh-navigation](https://ethanhann.github.io/eeh-navigation) module.
