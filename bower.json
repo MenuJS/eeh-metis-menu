@@ -1,0 +1,29 @@
+{
+  "name": "eeh-metix-menu",
+  "version": "0.1.0",
+  "authors": [
+    "Ethan Hann <ethanhann@gmail.com>"
+  ],
+  "description": "An AngularJS metisMenu module.",
+  "main": "src/eeh-metis-menu.js",
+  "keywords": [
+    "AngularJS",
+    "Menu",
+    "Navigation",
+    "MetisMenu",
+    "eehNavigation",
+    "eeh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.2",
+    "metisMenu": ">=2.0"
+  }
+}
